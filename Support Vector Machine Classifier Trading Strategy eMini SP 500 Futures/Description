@@ -1,6 +1,0 @@
-Description: Support Vector Machine Intraday Trading Strategy eMini S&P500 Futures
-An Intraday Trading Strategy for the eMini S&P500 Futures is set up using a Machine Learning Support Vector Machine (SVM) Classifier Python framework. 
-The SVM Classifier will apply a feature set of indicators to predict either a Buy, Sell or Hold signal for the next period.
-A Support Vector Machine Classifier is a 'supervised' Machine Learning algorithm (method). 
-'Supervised' means that it is first trained on historical data (such as past financial market data) to learn which predictive factors influence a future outcome. 
-Subsequently, the trained SVM Classifier is then applied to new or unseen data in an attempt to make predictions based on prior training.
